@@ -1,3 +1,3 @@
 # Game-2048
-It is accomplished by using wxpython library. 
-Game for fun!
+It is accomplished by using wxpython library.
+
